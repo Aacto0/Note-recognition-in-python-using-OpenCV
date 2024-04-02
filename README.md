@@ -1,1 +1,0 @@
-# Note-recognition-in-python-using-OpenCV
